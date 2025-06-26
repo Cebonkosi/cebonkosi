@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Cebolenkosi Gumpo! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Developer]** with experience in **[React, Angular, .NET, Unity, HTML&CSS, JavaScript, Typescript, C# and SQL]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Developer** with experience in **React, Angular, .NET, Unity, HTML&CSS, JavaScript, Typescript, C# and SQL**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[BackendPro, Cloud computing]**
 - 🔭 Working on: **[Goodies eCommerce Web app, Art Gallery App]**
